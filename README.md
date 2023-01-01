@@ -5,3 +5,4 @@ yes buddy am fine
 
 this is the branch on my own commit
 
+ again am committing using commit message command 
